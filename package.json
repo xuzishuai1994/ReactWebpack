@@ -1,0 +1,18 @@
+{
+  "name": "day0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "author": "xuzishuai",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "browser-sync": "^2.18.12",
+    "connect-history-api-fallback": "^1.3.0",
+    "html-webpack-plugin": "^2.29.0"
+  }
+}
